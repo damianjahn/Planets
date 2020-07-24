@@ -2,7 +2,7 @@
 
 
 
-![image](http://jahn.pl/screens/screen-planets1.png)
+![image](http://jahn.pl/screens/planets-presentation.png)
 
 
 ## Installation
